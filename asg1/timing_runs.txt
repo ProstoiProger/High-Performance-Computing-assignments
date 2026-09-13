@@ -1,0 +1,17 @@
+Raw timing measurements from array_sum.exe (increment loop only), 3 runs per N.
+Compiler: g++ (WinLibs MinGW-w64 16.1.0), flags: -O2 -std=c++11
+
+N = 100000
+Time: 2.17e-05 seconds
+Time: 2.39e-05 seconds
+Time: 2.27e-05 seconds
+
+N = 1000000
+Time: 0.0003879 seconds
+Time: 0.0003083 seconds
+Time: 0.0003668 seconds
+
+N = 10000000
+Time: 0.0073208 seconds
+Time: 0.007328 seconds
+Time: 0.0071132 seconds
