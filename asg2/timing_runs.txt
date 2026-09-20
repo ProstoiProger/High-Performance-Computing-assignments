@@ -1,0 +1,17 @@
+Raw timing measurements from matrix_access.exe (summation loops only), 5 runs per experiment.
+Compiler: g++ (WinLibs MinGW-w64 16.1.0), flags: -O2 -std=c++11
+N = 4000 (matrix 4000 x 4000), Sum = 16000000 in every run
+
+Experiment A: row-wise access
+Time: 0.0043189 seconds
+Time: 0.0030766 seconds
+Time: 0.0029402 seconds
+Time: 0.0030709 seconds
+Time: 0.0032214 seconds
+
+Experiment B: column-wise access
+Time: 0.0138046 seconds
+Time: 0.0138076 seconds
+Time: 0.0155111 seconds
+Time: 0.016907 seconds
+Time: 0.0145319 seconds
