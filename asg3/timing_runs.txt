@@ -1,0 +1,31 @@
+N = 1000
+Processor 0: points = 250, inside = 200
+Processor 1: points = 250, inside = 199
+Processor 2: points = 250, inside = 189
+Processor 3: points = 250, inside = 200
+Total inside (M) = 788
+Pi approximation = 3.152
+
+N = 10000
+Processor 0: points = 2500, inside = 1973
+Processor 1: points = 2500, inside = 1985
+Processor 2: points = 2500, inside = 1983
+Processor 3: points = 2500, inside = 1986
+Total inside (M) = 7927
+Pi approximation = 3.1708
+
+N = 100000
+Processor 0: points = 25000, inside = 19747
+Processor 1: points = 25000, inside = 19602
+Processor 2: points = 25000, inside = 19648
+Processor 3: points = 25000, inside = 19670
+Total inside (M) = 78667
+Pi approximation = 3.14668
+
+N = 1000000
+Processor 0: points = 250000, inside = 196427
+Processor 1: points = 250000, inside = 196282
+Processor 2: points = 250000, inside = 196271
+Processor 3: points = 250000, inside = 196627
+Total inside (M) = 785607
+Pi approximation = 3.14243
