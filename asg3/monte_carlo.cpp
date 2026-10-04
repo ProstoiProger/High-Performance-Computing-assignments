@@ -10,7 +10,7 @@ int main() {
     std::uniform_real_distribution<double> distribution(-1.0, 1.0);
 
     long long local_inside[P] = {0};
-
+ 	
     for (int p = 0; p < P; ++p) {
 
         for (long long i = 0; i < N / P; ++i) {

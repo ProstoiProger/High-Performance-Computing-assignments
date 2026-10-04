@@ -1,0 +1,38 @@
+Part 5, race condition (4 threads, before atomic)
+261763
+258936
+254340
+252730
+376972
+
+Part 5, with atomic (4 threads)
+1000000
+1000000
+1000000
+1000000
+1000000
+
+Part 6, static (4 threads)
+0.0210001
+0.0209999
+0.023
+
+Part 6, dynamic (4 threads)
+0.0219998
+0.0210001
+0.0220001
+
+Part 7, 1 thread
+0.016
+0.0189998
+0.02
+
+Part 7, 2 threads
+0.016
+0.0139999
+0.013
+
+Part 7, 4 threads
+0.0109999
+0.0109999
+0.00899982
