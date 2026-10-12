@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+#include <mpi.h>
+
+int main(int argc, char* argv[]) {
+
+    MPI_Init(&argc, &argv);
+
+    int rank;
+    int size;
+
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+    MPI_Comm_size(MPI_COMM_WORLD, &size);
+
+    int x = (rank + 1) * (rank + 1);
+
+    std::cout << "Process " << rank << ": x = " << x << std::endl;
+
+    MPI_Finalize();
+
+    return 0;
+}
