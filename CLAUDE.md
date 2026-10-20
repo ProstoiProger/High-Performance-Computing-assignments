@@ -22,6 +22,7 @@
 - Do not create PDFs unless asked.
 - Do not modify the original task PDFs.
 - If I have to execute C++ codes via bat files, explain in your report why we do in that way(old compiler, bat file is more convenient than direct calling, etc.)
+- Write my name(Orazgali Azamat, BDA-2402) exactly below the title, center and make it bold. The main text must be after that line
 
 ## Files and cleanup
 - Keep all files for an assignment in its own folder (`asgN`), using clear names.

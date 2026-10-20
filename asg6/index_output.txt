@@ -1,0 +1,14 @@
+computing	doc1,doc4
+data	doc2,doc3,doc4
+is	doc3
+large	doc2
+many	doc1
+mapreduce	doc2
+parallel	doc1,doc3
+process	doc4
+processes	doc2
+processing	doc3
+processors	doc1
+systems	doc4
+useful	doc3
+uses	doc1

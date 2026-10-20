@@ -1,0 +1,4 @@
+doc1 parallel computing uses many processors
+doc2 mapreduce processes large data
+doc3 parallel data processing is useful
+doc4 computing systems process data

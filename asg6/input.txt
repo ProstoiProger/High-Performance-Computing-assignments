@@ -1,0 +1,5 @@
+Parallel computing can process large datasets
+MapReduce processes data using map and reduce
+Parallel systems can process data faster
+Data can be distributed across many machines
+MapReduce is designed for distributed processing
